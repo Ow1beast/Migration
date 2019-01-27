@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Migration\Migration\bin\Debug\Migration.exe.config
+C:\Users\user\source\repos\Migration\Migration\bin\Debug\Migration.exe
+C:\Users\user\source\repos\Migration\Migration\bin\Debug\Migration.pdb
+C:\Users\user\source\repos\Migration\Migration\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Migration\Migration\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Migration\Migration\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Migration\Migration\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Migration\Migration\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\user\source\repos\Migration\Migration\obj\Debug\Migration.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Migration\Migration\obj\Debug\Migration.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Migration\Migration\obj\Debug\Migration.csproj.CopyComplete
+C:\Users\user\source\repos\Migration\Migration\obj\Debug\Migration.exe
+C:\Users\user\source\repos\Migration\Migration\obj\Debug\Migration.pdb
+C:\Users\user\source\repos\Migration\Migration\obj\Debug\Migration.Migrations.InitialCreate.resources
+C:\Users\user\source\repos\Migration\Migration\obj\Debug\Migration.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Migration\Migration\obj\Debug\Migration.Migrations.AddCompanyMigration.resources
